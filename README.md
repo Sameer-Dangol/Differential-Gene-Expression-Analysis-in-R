@@ -12,6 +12,6 @@ Current Goals:
 
 2. Learn to commit a R code to Github.
 
-3. Complete R Workshop: RNA-seq Airway Data and Differential Expression Analysis.
+3. Complete R Workshop: RNA-seq Airway Data and Differential Expression Analysis. (https://programming-workshops.readthedocs.io/en/v2018.07/workshops/04_R/Workshop_R_Solution.html#manipulate-and-visualize-results)
 
 
